@@ -15,5 +15,6 @@ This repository is ```NeRF with RealWorld```.  <br/>  This curated collection o
 | Date | Paper | Task | Speaker |
 | -------- | -------- | ---- | ---- |
 | 24/09/24 | OT       | ---- | Wongi Park |
-| 24/09/24 | [NeRF-W](https://nerf-w.github.io/), [Ha-NeRF](https://github.com/rover-xingyu/Ha-NeRF) | in the wild   | All Members |
-| 24/09/24 | [NeRF-OSR](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/) [NeRF-MS](https://nerf-ms.github.io/)      |   in the wild   | ---- |
+| 24/09/24 | [NeRF-W](https://nerf-w.github.io/), [Ha-NeRF](https://github.com/rover-xingyu/Ha-NeRF) | in the wild, Uncertainty   | All Members |
+| 24/10/01 | [NeRF-OSR](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/) [NeRF-MS](https://nerf-ms.github.io/)      |   In the wild, Relightning   | All Members |
+| 24/10/08 | [CR-NeRF](https://github.com/YifYang993/CR-NeRF-PyTorch) [RobustNeRF](https://arxiv.org/abs/2302.00833)     | In the wild, Uncertainty   | All Members |
