@@ -17,4 +17,9 @@ This repository is ```NeRF with RealWorld```.  <br/>  This curated collection o
 | 24/09/24 | OT       | ---- | Wongi Park |
 | 24/09/24 | [NeRF-W](https://nerf-w.github.io/), [Ha-NeRF](https://github.com/rover-xingyu/Ha-NeRF) | in the wild, Uncertainty   | All Members |
 | 24/10/01 | [NeRF-OSR](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/) [NeRF-MS](https://nerf-ms.github.io/)      |   In the wild, Relightning   | All Members |
-| 24/10/08 | [CR-NeRF](https://github.com/YifYang993/CR-NeRF-PyTorch) [RobustNeRF](https://arxiv.org/abs/2302.00833)     | In the wild, Uncertainty   | All Members |
+| 24/10/08 | [CR-NeRF](https://github.com/YifYang993/CR-NeRF-PyTorch) [RobustNeRF](https://arxiv.org/abs/2302.00833) [Splatfacto-W](https://arxiv.org/pdf/2407.12306)     | In the wild, Uncertainty   | All Members |
+| 24/10/14 | [Gaussian-W](https://eastbeanzhang.github.io/GS-W/) [NeRF-on-the-go](https://rwn17.github.io/nerf-on-the-go/)     | In the wild, Uncertainty   | All Members |
+| 24/10/28 | [SF-NeRF](https://arxiv.org/pdf/2303.03966) [SpotLessSplats](https://arxiv.org/pdf/2406.20055) [NeRF-HuGS](https://arxiv.org/abs/2403.17537)     | In the wild, Uncertainty   | All Members |
+
+
+
