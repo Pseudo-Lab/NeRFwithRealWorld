@@ -2,8 +2,8 @@
 ![model overview](NeRFwithRealWorld.png)
 ## Overall
 This repository is ```NeRF with RealWorld```. <br/> 
-Our group belongs to [PseudoWild](https://github.com/Pseudo-Lab/PseudoWild). <br/> 
-Check >> 📄 [Merged_PPT (PDF)](https://github.com/Pseudo-Lab/PseudoWild/blob/main/PDF/9th_NeRFWithRealWorld_PPT_Merge.pdf).
+Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV). <br/> 
+Check >> 📄 [Merged_PPT (PDF)](https://github.com/Pseudo-Lab/Pseudo3DV/blob/main/PDF/9th_NeRFWithRealWorld_PPT_Merge.pdf).
 
 This curated collection of resources is related tackling Realworld problems based on NeRF or 3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PseudoWild](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Tuesday at 9pm, PseudoLab Discord Room YL!)
 
